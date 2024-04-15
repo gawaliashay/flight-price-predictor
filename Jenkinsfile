@@ -3,7 +3,7 @@ pipeline {
     environment {
         dockerImage = ''
         registry = 'ashay1987/flight_price_predictor'
-        registryCredential = 'dockerhub'
+        registryCredential = 'DockeHhub'
     }
 
     stages {
